@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { marked } from 'marked';
 import Editor from './components/Editor.jsx';
 import Preview from './components/Preview.jsx';
 import Toolbar from './components/Toolbar.jsx';
